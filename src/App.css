@@ -1,0 +1,12 @@
+.tags-list{
+    max-width: 600px;
+    margin: 0 auto 2rem auto;
+
+    h2{
+        padding-bottom: 1rem;
+    }
+
+    li{
+        margin-left: 2rem;
+    }
+}

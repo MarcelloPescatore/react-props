@@ -1,0 +1,22 @@
+.bg-green {
+    background-color: green;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-violet {
+    background-color: violet;
+}
+
+span {
+    display: inline-block;
+    padding: 0.25rem 0.5rem;
+    color: white;
+    margin-right: 1rem;
+}
